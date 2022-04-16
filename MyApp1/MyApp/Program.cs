@@ -38,7 +38,6 @@ namespace MyApp
             Console.WriteLine("Class Average: " + classAverage);
             Console.WriteLine("Fees Paid: " + feesPaid);
             Console.WriteLine("Course Passed: " + coursePassed);
-            Console.ReadLine();
         }
     }
 }
